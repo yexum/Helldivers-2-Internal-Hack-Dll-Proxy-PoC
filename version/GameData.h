@@ -31,3 +31,4 @@ class GameData
 
 		bool	OHK = false;
 };
+// 51151515651
