@@ -1,4 +1,4 @@
-// DLLForward by itisluiz v1.2.1.2
+// DLLForward by itisluiz v1.1.4.5.1.4
 #pragma once
 #include <cstdint>
 #include <Windows.h>
