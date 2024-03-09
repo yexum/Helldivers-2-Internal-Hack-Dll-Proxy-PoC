@@ -55,8 +55,8 @@ https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions \
 Because github automatically builds the master branch, you can:
 - Fork the repository. 
 - Go to the Actions tab and make sure workflow is enabled.
-- Make any changes to a file, and github will rebuild the .dll in the Actions tab of that fork.
-11111
+- Make any changes to a file, and github will rebuild the .dll in the Actions tab of that fork.- 
+
 For example: [https://github.com/DeathWrench/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions](https://github.com/emoisback/Helldivers-2-Internal-Hack-Dll-Proxy-PoC/actions) \
 As you can see, commits from forks get built by github as long as they're in the master branch.
 #### Still if you want to build it yourself in Visual Studio:
